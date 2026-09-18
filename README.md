@@ -115,10 +115,5 @@ The ALU accepts two 4-bit signed operands ($a[3:0]$ and $b[3:0]$) and a 4-bit op
 
 - **Ahmed Sherif** (23P0414) — *Gates & Logic*
 - **Omar Ahmed Fouad** (23P0369) — *Report & Building blocks on Cadence*
-- **Alaa Mostafa** (23P0331) — *Gates*
 - **Ahmed Belal** (23P0007) — *Layout*
 - **Naira Ahmed** (23P0408) — *Verilog & Testbench*
-- **Abdullah Mohamed** (23P0238) — *Gates & Logic*
-- **Fady Sameh Gamal** (23P0057) — *Gates*
-- **Marina Amgad** (23P0330) — *Verilog & Testbench*
-- **Mohamed Abdel Ghany** (22P0131) — *Report & Building blocks on Cadence*
